@@ -1,6 +1,8 @@
 # Solidity Employee Contracts
 Contract address for AssociateProfitSplitter.sol: 0x48D1B811D9e827DF247E36B4cf892Dc9ac469a11
+
 Contract address for tieredProfitSplitter.sol: 0x7e790946D5242912f1929DCeBB0e623c0643097e
+
 Contract address for DefferedEquityPlan.sol: 0x2184026E688a855d859DD4e9F8ef51A7B29358FF
 
 ## Three contracts were developed on Ganache blockchain: 
